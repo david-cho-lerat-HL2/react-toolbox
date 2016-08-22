@@ -110,7 +110,7 @@ $color-primary: $palette-blue-500;
 $color-primary-dark: $palette-blue-700;
 ```
 
-This file should be prepended to each stylesheet compilation which be achieved in multiple ways.
+This file should be prepended to each stylesheet compilation which can be achieved in multiple ways.
 
 ### Using SASS Loader
 
