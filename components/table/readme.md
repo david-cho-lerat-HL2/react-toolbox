@@ -1,6 +1,6 @@
 # Table
 
-The Table component is an enhanced version of the standard HTML `<table>`. A data-table consists of rows and columns of well-formatted data, presented with appropriate user interaction capabilities. This component uses a solid typed model, helping you to create formatted formated cells. These cells can be editable if you subscribe to `onChange` method who dispatch then new source with each change.
+The Table component is an enhanced version of the standard HTML `<table>`. A data-table consists of rows and columns of well-formatted data, presented with appropriate user interaction capabilities. This component uses a solid typed model, helping you to create formatted cells. These cells can be editable if you subscribe to `onChange` method who dispatch then new source with each change.
 
 <!-- example -->
 ```jsx
